@@ -2,6 +2,8 @@
 
 This is the repository for the paper FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference. This contains the scripts for the experiment section in the paper. Detailed instructions are also in the comments of the scripts.
 
+Please note that this repository is **not** intended for users. The Python package for users is in another respository: https://github.com/almost-matching-exactly/DAME-FLAME-Python-Package. We also offer an R package: https://github.com/almost-matching-exactly/R-FLAME.
+
 ## FLAMEbit example
 
 ```python
