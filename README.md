@@ -1,4 +1,4 @@
-# FLAME
+# FLAME Algorithm Experiments
 
 This is the repository for the paper FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference. This contains the scripts for the experiment section in the paper. Detailed instructions are also in the comments of the scripts.
 
