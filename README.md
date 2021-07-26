@@ -1,8 +1,8 @@
-# FLAME Algorithm Experiments
+# FLAME JMLR 2020 Experiment Code
 
-This is the repository for the paper FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference. This contains the scripts for the experiment section in the paper. Detailed instructions are also in the comments of the scripts.
+This is the repository for the paper FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference (JMLR 2020). This contains the scripts for the experiment section in the paper. Detailed instructions are also in the comments of the scripts.
 
-Please note that this repository is **not** intended for users. The Python package for users is in another respository: https://github.com/almost-matching-exactly/DAME-FLAME-Python-Package. We also offer an R package: https://github.com/almost-matching-exactly/R-FLAME.
+Please note that this repository is **not** intended for users. There are user-facing R and Python packages available in the repositories https://github.com/almost-matching-exactly/R-FLAME and https://github.com/almost-matching-exactly/DAME-FLAME-Python-Package, respectively. 
 
 ## FLAMEbit example
 
